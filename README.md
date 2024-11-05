@@ -1,5 +1,5 @@
 ## Introduction
-This repo containing learning material for GitHub
+This is my practice repo for learning Git and GitHub.
 
 ## Resources for Learning
 * YouTube Videos
@@ -10,7 +10,7 @@ This repo containing learning material for GitHub
  - [Data Analytics3](https://github.com/stars/LinusP217/lists/solid-state)
 
 
-<details><summary><b><a href="https://github.com/deepqmc/deepqmc">DeepQMC</a></b> (🥇22 ·  ⭐ 350 · 📈) - Deep learning quantum Monte Carlo for electrons in real space. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary>QMC (🥇22 ·  ⭐ 350 · 📈) - Deep learning quantum Monte Carlo for electrons in real space. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/deepqmc/deepqmc) (👨‍💻 13 · 🔀 60 · 📦 3 · 📋 47 - 6% open · ⏱️ 23.10.2024):
 
