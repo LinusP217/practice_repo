@@ -1,4 +1,7 @@
 ## Introduction
+
+<img align="right" src='https://github.com/LinusP217/practice_repo/blob/main/MO8_LUCO_res.png' width = "200" height = "189">
+
 This is my practice repo for learning Git and GitHub.
 
 ## Resources for Learning
@@ -10,7 +13,7 @@ This is my practice repo for learning Git and GitHub.
  - [Data Analytics3](https://github.com/stars/LinusP217/lists/solid-state)
 
 
-<details><summary>QMC (🥇22 ·  ⭐ 350 · 📈) - Deep learning quantum Monte Carlo for electrons in real space. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary>QMC (🥇22 ·  ⭐ 350 · 📈) - Deep learning quantum Monte Carlo for electrons in real space. MIT</summary>
 
 - [GitHub](https://github.com/deepqmc/deepqmc) (👨‍💻 13 · 🔀 60 · 📦 3 · 📋 47 - 6% open · ⏱️ 23.10.2024):
 
